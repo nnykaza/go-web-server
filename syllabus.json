@@ -1,0 +1,11 @@
+{
+    "course": "Go Web Server",
+    "modules": [
+      "Introduction",
+      "Go Basics",
+      "Building Web Servers",
+      "Embedding Files",
+      "Deploying to Azure"
+    ]
+  }
+  
